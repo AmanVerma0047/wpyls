@@ -1,0 +1,8 @@
+ls.py
+pyproject.toml
+wpyls.egg-info/PKG-INFO
+wpyls.egg-info/SOURCES.txt
+wpyls.egg-info/dependency_links.txt
+wpyls.egg-info/entry_points.txt
+wpyls.egg-info/requires.txt
+wpyls.egg-info/top_level.txt
