@@ -1,3 +1,5 @@
+# AUTHOR:AMAN VERMA {internet-alias:Kiri}
+
 from pathlib import Path
 import argparse
 from rich import print
