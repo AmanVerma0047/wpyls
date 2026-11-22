@@ -13,3 +13,5 @@ dependencies = [
 ]
 [project.scripts]
 wpyls = "wpyls:main_cli"
+[tool.setuptools]
+py-modules = ["wpyls"]
