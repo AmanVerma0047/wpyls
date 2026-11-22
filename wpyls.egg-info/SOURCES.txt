@@ -1,5 +1,5 @@
-ls.py
 pyproject.toml
+wpyls.py
 wpyls.egg-info/PKG-INFO
 wpyls.egg-info/SOURCES.txt
 wpyls.egg-info/dependency_links.txt
