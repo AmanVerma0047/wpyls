@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "wpyls"          # package name (must be unique on PyPI if published)
-version = "1.0.1"
+version = "1.0.2"
 description = "My custom ls command in Python for Windows"
 authors = [{ name = "Aman Verma (Kiri)" }]
 requires-python = ">=3.8"
